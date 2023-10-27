@@ -1,0 +1,173 @@
+h1 {
+    color: rgb(157, 255, 0);
+
+    background-color: rgba(128, 128, 128, 0.612);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* Inicio */
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+
+    color: midnightblue;
+
+    font-weight: bolder;
+    background-color: rgba(240, 255, 255, 0.842);
+    font-size: 175%;
+    border-radius: 20%;
+    text-transform: uppercase;
+
+}
+
+
+.uno {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: navy;
+    font-size: x-large;
+    background-color: rgba(240, 255, 255, 0.719);
+
+
+}
+
+body {
+    background-color: rgba(135, 207, 235, 0.152);
+
+}
+
+.uno {
+    border-style: double;
+    border-radius: 3px;
+    border-color: rosybrown;
+    padding: 30px;
+
+
+}
+
+.bodyImagen {
+    background-image: url("../img/132-deyoungmuseum071017-andrialo.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.headerUno {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linkNav li {
+    display: inline-block;
+    padding: 0 45px;
+}
+
+/* Cuadros */
+
+
+.headerDos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.img1 {
+    width: 250px;
+    height: 400;
+}
+
+.img2 {
+    width: 250px;
+    height: 330px;
+}
+
+.img3 {
+    width: 250px;
+    height: 330px;
+}
+
+.img4 {
+    width: 250px;
+    height: 330px;
+}
+
+.img5 {
+    width: 275px;
+    height: 330px;
+}
+
+.linkNav2 li {
+    display: inline-block;
+    padding: 0 45px;
+
+}
+
+/* Publicar */
+
+h2 {
+    color: brown;
+    border-style: ridge;
+    border-radius: 7px;
+    padding-top: 15px;
+}
+
+label {
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.headerTres {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linkNav3 li {
+    display: inline-block;
+    padding: 0 45px;
+}
+
+
+/* Eventos */
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+.dos {
+    margin-bottom: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+
+
+/* Nosotros */
+
+
+.logoMedida {
+    width: 180px;
+
+}
+
+.tres {
+    font-size: 200%;
+    border-style: double;
+    background-color: rgba(127, 255, 212, 0.171);
+}
+
+footer {
+    font-size: 150%;
+    border-style: ridge;
+    background-color: darksalmon;
+    margin-top: 400px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
