@@ -1,0 +1,23 @@
+.logoMedidaIndx{
+    width:180px;
+}
+.uno {
+     @include textdeco;
+
+    background-color:$colorPrincipal
+
+
+}
+
+body {
+    background-color: rgba(135, 207, 235, 0.152);
+
+}
+
+.uno {
+    
+    border-radius: 3px;
+    padding: 30px;
+
+
+}
